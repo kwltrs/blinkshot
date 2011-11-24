@@ -3,7 +3,7 @@ require "test_helper"
 class TestTheTruth < Test::Unit::TestCase
     context "the truth" do
         setup do
-            @the_truth = false
+            @the_truth = true
         end
 
         should "be true" do
