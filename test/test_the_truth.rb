@@ -1,6 +1,6 @@
 require "test_helper"
 
-class TheTruthTest < Test::Unit::TestCase
+class TestTheTruth < Test::Unit::TestCase
     context "the truth" do
         setup do
             @the_truth = false
