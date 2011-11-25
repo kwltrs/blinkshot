@@ -7,7 +7,7 @@ Gem::Specification.new do |s|
   s.version     = BlinkShot::VERSION
   s.authors     = ["Kristofer"]
   s.email       = ["kris@wltrs.org"]
-  s.homepage    = ""
+  s.homepage    = "https://github.com/kwltrs/blinkshot"
   s.summary     = %q{dump webpages to pngs}
   s.description = %q{best thing since sliced bread}
 
@@ -21,6 +21,6 @@ Gem::Specification.new do |s|
   # specify any dependencies here; for example:
   # s.add_development_dependency "rspec"
   # s.add_runtime_dependency "rest-client"
-  
+
   s.add_development_dependency "shoulda"
 end
